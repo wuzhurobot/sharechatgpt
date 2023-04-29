@@ -18,5 +18,24 @@
 
 # 镜像网站
 
+基本都是免费的或者有体验次数
+
+| 网址                            | 翻墙 | 备注     |
+| -------------------------------|:----:| --------:|
+| https://chat.forefront.ai/      | Y    | 支持4.0 |
+| https://fastgpt.app/           | Y    | 支持4.0 |
+| https://liaobots.com/          | N    | 支持4.0 |
+| https://freegpt.one/           | Y    |          |
+| https://chatbot.theb.ai/#/chat/| Y    |          |
+| https://free.anzz.top/#/chat/  | Y    |          |
+| https://chat35.com/chat        | Y    |          |
+| https://chat2.aichatos.top/#/chat/ | N |          |
+| http://chat.freebot.one/       | N    |          |
+| https://chat.aidutu.cn/#/chat/ | n   |          |
+| https://new.ctgpt2.cn/         | n   |          |
+| https://gpt.ai8.icu/           | n   |          |
+| https://nat.dev/               | Y    | 这个收费，但是支持多个模型对比输出 |
+
+
 
 
