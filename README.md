@@ -9,6 +9,8 @@
  - [ChatGPT官网](#chatgpt官网)
  - [镜像网站](#镜像网站)
  - [chatgpt相关插件](#chatgpt相关插件)
+ - [chatgpt增强产品 ](#chatgpt增强产品)
+ - [chatgpt-prompt指南](#chatgpt-prompt指南)
 
 # ChatGPT官网
 
@@ -50,7 +52,20 @@
 | ChatGPT for zhihu         | https://chrome.google.com/webstore/detail/chatgpt-for-zhihu/dgoinfidjelfolhnkaableghhppplbak?hl=zh-CN | ChatGPT for zhihu知乎插件能够帮助大家更快的得到问题的恢复，不需要等待很长的时间就能够得到答案。可以很便捷的使用，通过浏览器就能直接使用了。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 
+# chatgpt增强产品       
+
+| 地址                          | 备注                                                                                                                                                                                                                                   |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| https://www.chatmind.tech     | 用于生成思维导图，部分功能收费。                                                                                                                                                                                                       |
+| https://www.chatpdf.com/      | 上传一个PDF文档，GPT能快速和解析文档的内容，你可以任意向他提问。                                                                                                                                                                         |
+| https://motion.yoo-ai.com/   | 面向PPT用户提供可通过自然语言指令与Chat模式进行PPT文档创作的AI创作服务。                                                                                                                                                               |
 
 
+# chatgpt-prompt指南
+
+提问的艺术：https://svngnhakx2.feishu.cn/sheets/shtcnAw7pzQmgCxAa1VndDj4gLc  
+指令大全：https://www.aishort.top/  
+调教指南：https://chatguide.plexpt.com/  
+提示工程：https://www.promptingguide.ai/zh  
 
 
