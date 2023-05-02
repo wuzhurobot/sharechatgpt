@@ -12,6 +12,8 @@
  - [chatgpt相关插件](#chatgpt相关插件)
  - [chatgpt增强产品 ](#chatgpt增强产品)
  - [chatgpt-prompt指南](#chatgpt-prompt指南)
+ - [OpenAI-API-SDK](#openai-api-sdk)
+
 
 # ChatGPT官网
 
@@ -86,8 +88,33 @@
 # chatgpt-prompt指南
 
 提问的艺术：https://svngnhakx2.feishu.cn/sheets/shtcnAw7pzQmgCxAa1VndDj4gLc  
-指令大全：https://www.aishort.top/  
+指令大全：https://www.aishort.top/ 
 调教指南：https://chatguide.plexpt.com/  
 提示工程：https://www.promptingguide.ai/zh  
+
+
+# OpenAI-API-SDK
+
+一、openai 官方提供的sdk。
+
+基本上涵盖了各种编程语言，如python、node.js、c#、Java等等
+
+https://platform.openai.com/docs/libraries  
+
+<img width="1119" alt="image" src="https://user-images.githubusercontent.com/132084705/235719923-29782833-f285-4ec1-80c3-6c4aa2cf1f2c.png">  
+
+
+二、三方开源的OpenAI-API-SDK。
+
+一般情况下，用官方提供的sdk就够了，但个别sdk不太行，例如java的，所以分享一下三方的，大家可以做个参考。  
+
+1、Java
+
+chatgpt-java：https://github.com/newbiefly/chatgpt-java
+
+
+
+
+
 
 
