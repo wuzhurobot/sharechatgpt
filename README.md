@@ -7,6 +7,7 @@
 
 # 目录
  - [ChatGPT官网](#chatgpt官网)
+ - [ChatGPT基本科普](#chatgpt基本科普)
  - [镜像网站](#镜像网站)
  - [chatgpt相关插件](#chatgpt相关插件)
  - [chatgpt增强产品 ](#chatgpt增强产品)
@@ -17,6 +18,21 @@
 普通人直接打开：https://chat.openai.com/    
 开发者关注：https://platform.openai.com/
 
+# ChatGPT基本科普
+
+一、国内使用ChatGPT的必要条件：翻墙
+
+1、在国内想要使用ChatGPT需要翻墙，而且港澳台地区都不支持；
+2、在国内如果想调用openai api，也需要翻墙，香港地区就可以。
+
+这里给大家推荐一个不错的梯子：https://47.244.30.150/aff.php?aff=4717，  很稳、很便宜、很灵活、支持的地区也很多。其实这个网站就是提供了一个节点，需要配合clash软件使用，具体的教程：https://yecao100.51vip.win/
+
+二、关于ChatGPT账号
+
+1、ChatGPT账号只有两种:普通账号和Plus账号。
+2、普通账号升级到Plus账号，需要绑定国外的银行卡或者信用卡，每个月大概130左右！
+3、GPT官网目前并没有完全开方GPT4.0模型，只有Plus账号可以使用；普通账号只能使用GPT3.5
+4、GPT4.0相比于3.5，逻辑思维、推理能力、理解能力都更强。
 
 
 # 镜像网站
