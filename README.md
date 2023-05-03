@@ -44,7 +44,9 @@
 | 网址                            | 翻墙 | 备注     |
 | -------------------------------|:----:| --------:|
 | https://chat.forefront.ai/      | Y    | 支持4.0 |
-| https://fastgpt.app/           | Y    | 支持4.0 |
+| https://fastgpt.app/           | Y    | 支持4.0 | 
+| https://chat.g4f.ai/chat/         | Y    | 支持4.0 |
+| https://poe.com/GPT-4         | Y    | 支持4.0 |
 | https://liaobots.com/          | N    | 支持4.0 |
 | https://chatgptmirror.com/chat | Y    |          |
 | https://freegpt.one/           | Y    |          |
