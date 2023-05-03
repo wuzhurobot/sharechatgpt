@@ -54,6 +54,8 @@
 | https://chatbot.theb.ai/#/chat/| Y    |          |
 | https://free.anzz.top/#/chat/  | Y    |          |
 | https://chat35.com/chat        | Y    |          |
+| https://app.writesonic.com/    | Y    |          |
+| https://www.sqlchat.ai/        | Y    |          |
 | https://chat2.aichatos.top/#/chat/ | N |          |
 | http://chat.freebot.one/       | N    |          |
 | https://chat.aidutu.cn/#/chat/ | n   |          |
