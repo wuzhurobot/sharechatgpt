@@ -61,6 +61,7 @@
 | https://chat.aidutu.cn/#/chat/ | n   |          |
 | https://new.ctgpt2.cn/         | n   |          |
 | https://gpt.ai8.icu/           | n   |          |
+| https://chat5.aitianhu.top/    | n   |          |
 | https://nat.dev/               | Y    | 这个收费，但是支持多个模型对比输出 |
 
 
