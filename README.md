@@ -13,6 +13,8 @@
  - [chatgpt增强产品 ](#chatgpt增强产品)
  - [chatgpt-prompt指南](#chatgpt-prompt指南)
  - [OpenAI-API-SDK](#openai-api-sdk)
+ - [开源项目](#开源项目)
+
 
 
 # ChatGPT官网
@@ -94,7 +96,7 @@
 # chatgpt-prompt指南
 
 提问的艺术：https://svngnhakx2.feishu.cn/sheets/shtcnAw7pzQmgCxAa1VndDj4gLc  
-指令大全：https://www.aishort.top/ 
+指令大全：https://www.aishort.top/  
 调教指南：https://chatguide.plexpt.com/  
 提示工程：https://www.promptingguide.ai/zh  
 
@@ -119,6 +121,34 @@ https://platform.openai.com/docs/libraries
 chatgpt-java：https://github.com/newbiefly/chatgpt-java
 
 
+# 开源项目
+
+1、https://github.com/SCUTlihaoyu/open-chat-video-editor  
+开源的短视频生成和编辑工具
+
+2、https://github.com/newbiefly/ChatGPT-MP  
+基于ChatGPT实现的微信小程序。包含前后端，支持AI聊天次数限制，支持分享增加次数等功能。
+
+3、https://github.com/hncboy/chatgpt-web-java  
+Java 开发的 ChatGPT 的项目，基于 Spring Boot 3 和 JDK 17，支持 AccessToken 和 ApiKey 模式。
+
+4、https://github.com/liyupi/yu-auto-reply  
+AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答
+
+5、https://github.com/Chanzhaoyu/chatgpt-web  
+用 Express 和 Vue3 搭建的 ChatGPT 演示网页
+
+6、https://github.com/lencx/ChatGPT  
+桌面版的chatgpt 支持MAC WINDOW LINUX
+
+7、https://github.com/skydoves/chatgpt-android  
+android 版chatgpt
+
+8、https://github.com/swordintent/wechat-chatbot-server  
+微信公众号后台，集成聊天机器人，目前没有接入chatgpt，但是很方便扩展
+
+9、https://github.com/fuergaosi233/wechat-chatgpt  
+chatgpt接入微信
 
 
 
