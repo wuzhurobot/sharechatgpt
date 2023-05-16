@@ -1,6 +1,6 @@
 # 主旨
 
-分享和ChatGPT相关的资源，欢迎关注同名公众号：五竹是个机器人。
+分享和ChatGPT相关的资源，欢迎关注同名公众号：五竹是个机器人。后面还是用文档更新吧，更方面：https://docs.qq.com/doc/DRVdBZ2JPU3VYQm5P
 
 ![qrcode_for_gh_b1f328de3c96_258(1)](https://user-images.githubusercontent.com/132084705/235296458-8818bd46-c670-48de-9a0a-5987374e97b0.jpg)
 
